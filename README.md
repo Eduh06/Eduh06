@@ -12,7 +12,7 @@ Default
  
 ## I'm Eduardo dos Santos
  
-Apaixonado por conhecimneto e tecnologia e sempre disposto a ajudar!
+Apaixonado por conhecimento e tecnologia e sempre disposto a ajudar!
  
  
 ## About me 

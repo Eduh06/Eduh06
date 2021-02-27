@@ -1,4 +1,3 @@
-Default
 
 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
  
@@ -17,6 +16,6 @@ Apaixonado por conhecimento e tecnologia e sempre disposto a ajudar!
  
  
 - Thanks for visiting. 
- ![Logo of the project](https://github.com/Eduh06/Bootcamp-Everis-FullStack-Developer/blob/main/PROJETO%20INSTAGRAM/imagens/6590f358-a061-4a75-96d9-0333c1eb831a_200x200.png)
 - Enjoy it!! o/
 
+![Logo of the project](https://github.com/Eduh06/Bootcamp-Everis-FullStack-Developer/blob/main/PROJETO%20INSTAGRAM/imagens/6590f358-a061-4a75-96d9-0333c1eb831a_200x200.png)

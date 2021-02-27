@@ -12,7 +12,7 @@ Default
  
 ## I'm Eduardo dos Santos
  
-… Insira suas descrições aqui!
+Apaixonado por conhecimneto e tecnologia e sempre disposto a ajudar!
  
  
 ## About me 

@@ -1,11 +1,5 @@
 Default
-![Logo of the project](https://github.com/Eduh06/Bootcamp-Everis-FullStack-Developer/blob/main/PROJETO%20INSTAGRAM/imagens/6590f358-a061-4a75-96d9-0333c1eb831a_200x200.png)
 
-
-
-
-17
-18
 <img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
  
 # Welcome!
@@ -21,7 +15,8 @@ Apaixonado por conhecimento e tecnologia e sempre disposto a ajudar!
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:seu_email)
  
-- Thanks for visiting. 
  
+- Thanks for visiting. 
+ ![Logo of the project](https://github.com/Eduh06/Bootcamp-Everis-FullStack-Developer/blob/main/PROJETO%20INSTAGRAM/imagens/6590f358-a061-4a75-96d9-0333c1eb831a_200x200.png)
 - Enjoy it!! o/
 

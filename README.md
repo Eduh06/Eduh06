@@ -5,7 +5,7 @@
  
 ## I'm Eduardo dos Santos
  
-Apaixonado por conhecimento e tecnologia e sempre disposto a ajudar!
+Passionate about knowledge and technology and always willing to help!
  
  
 ## About me 

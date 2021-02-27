@@ -1,5 +1,5 @@
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://github.com/Eduh06/Bootcamp-Everis-FullStack-Developer/blob/main/PROJETO%20INSTAGRAM/imagens/gif-palmas-alegria-excitac%CC%A7a%CC%83o.gif">
  
 # Welcome!
  

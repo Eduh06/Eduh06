@@ -1,5 +1,5 @@
 ## Olá eu sou o Eduardo dos Santos, Estudante de Análise e Desenvolvimento de Sistemas!
-<div align="center">
+<div align="center" back>
   <a href="https://github.com/Eduh06">
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Eduh06&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduh06&layout=compact&langs_count=7&theme=merko"/>

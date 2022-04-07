@@ -1,8 +1,8 @@
 ## Olá eu sou o Eduardo dos Santos, Estudante de Análise e Desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/Eduh06">
-  <img height="30%" src="https://github-readme-stats.vercel.app/api?username=Eduh06&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduh06&layout=compact&langs_count=7&theme=merko"/>
+  <img height="20%" src="https://github-readme-stats.vercel.app/api?username=Eduh06&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduh06&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

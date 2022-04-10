@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eduh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eduh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <a href= "https://github.com/Eduh06/Curso-de-desenvolvimento-web-completo"><<img align="center" alt="Eduh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <img align="center" alt="Eduh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <a href= "https://github.com/Eduh06/Programas-simples-em-JAVA"><img align="center"alt="Eduhjava"height="30"width="40 "src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
   <img align="center" alt="Eduh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
